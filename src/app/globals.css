@@ -7,3 +7,10 @@
   margin: 0;
   padding: 0;
 }
+
+.inputClass {
+  padding: 8px 6px;
+  margin-bottom: 12px;
+  background-color: #f1f1f1f1;
+  border-radius: 4px;
+}
